@@ -1,0 +1,27 @@
+[
+    {
+        "start": 0.0,
+        "End": 2.6,
+        "Text": " Guys, in today's video we are going to talk about"
+    },
+    {
+        "start": 2.6,
+        "End": 4.6000000000000005,
+        "Text": " Semantic Tags in HTML"
+    },
+    {
+        "start": 4.6000000000000005,
+        "End": 7.4,
+        "Text": " that the elements in our HTML"
+    },
+    {
+        "start": 7.4,
+        "End": 10.0,
+        "Text": " how can they be given meaning"
+    },
+    {
+        "start": 10.0,
+        "End": 12.0,
+        "Text": " and how can they be used"
+    }
+]

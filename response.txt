@@ -1,0 +1,9 @@
+What's your question about HTML Inline & Block Elements? I'd be happy to help.
+
+You asked if there was a specific difference between inline and block elements. Well, in Video 7, we actually cover this topic from around 0:59 seconds (59.44 seconds) where the instructor introduces you to inline and block elements, but not specifically their differences at that point of time.
+ 
+ However, later on, starting from approximately 1 minute (60 seconds) into the video, we get a brief overview of what is an inline element and what is a block element. We can dive deeper into this difference in Video 7 at around 4 minutes into the video.
+
+We also explore which makes your block elements inline in the same video starting from about 3 minutes and 40 seconds into it.
+
+Would you like more clarification on any of these points or perhaps explore further topics related to HTML Inline & Block Elements?
