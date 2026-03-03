@@ -1,0 +1,3372 @@
+{
+    "Chunks": [
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 0.0,
+            "End": 6.5600000000000005,
+            "Text": " After watching this course, you will learn the technologies used in making websites from start to end"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 6.5600000000000005,
+            "End": 12.16,
+            "Text": " And making successful and profitable websites, I will teach you in this course end to end"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 12.16,
+            "End": 16.64,
+            "Text": " All these videos will be uploaded free of cost on my channel Code with Harry"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 16.64,
+            "End": 21.68,
+            "Text": " And I will add all the videos in a playlist, which I would like you to access from the description"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 21.68,
+            "End": 26.48,
+            "Text": " And bookmark it so that you don't miss any video"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 26.48,
+            "End": 29.52,
+            "Text": " This course is for those people who don't know anything"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 29.52,
+            "End": 34.8,
+            "Text": " Yes, those people who don't know anything about web development and want to start"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 34.8,
+            "End": 37.2,
+            "Text": " Maybe you haven't heard anything about programming"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 37.2,
+            "End": 41.519999999999996,
+            "Text": " This course is for those people, I will teach you from start to end"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 41.519999999999996,
+            "End": 45.36,
+            "Text": " Before starting this course, I would like to request you to like this video"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 45.36,
+            "End": 48.4,
+            "Text": " And along with that, tell me in the comment below where are you from"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 48.4,
+            "End": 54.16,
+            "Text": " And you join this course, write to me so that in the coming time I will have to give anything related to the course"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 54.16,
+            "End": 58.8,
+            "Text": " Like notes or cheat sheets or maybe there are some resources that I should share with you"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 58.8,
+            "End": 62.239999999999995,
+            "Text": " So I will reply to all those things in your comment"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 62.239999999999995,
+            "End": 68.56,
+            "Text": " So if you haven't commented below yet, then it is very important to comment your name and where you are from"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 68.56,
+            "End": 74.47999999999999,
+            "Text": " Those people who are already making websites and those who are working in HTML, JavaScript and CSS"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 74.47999999999999,
+            "End": 76.88,
+            "Text": " I would like to tell those people that you should also watch this course"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 76.88,
+            "End": 79.6,
+            "Text": " At the start, you may feel that you know some things"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 79.6,
+            "End": 84.4,
+            "Text": " But after 2-3-4 videos, I will progress it at an advanced level"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 84.4,
+            "End": 89.52000000000001,
+            "Text": " And there you will get some best practices, some common mistakes that people should use"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 89.52000000000001,
+            "End": 94.0,
+            "Text": " Some new tools that people don't use at all, they use old techniques"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 94.0,
+            "End": 97.2,
+            "Text": " Pointing out all those things, I will take you forward"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 97.2,
+            "End": 101.44,
+            "Text": " I will teach you HTML, CSS and JavaScript in this course"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 101.44,
+            "End": 103.52000000000001,
+            "Text": " So you must join this course"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 103.52000000000001,
+            "End": 110.0,
+            "Text": " And I want to assure you that after watching this course, you will be able to make any kind of professional website"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 110.0,
+            "End": 111.60000000000001,
+            "Text": " I get a lot of questions like this"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 111.6,
+            "End": 115.19999999999999,
+            "Text": " Some people say that there is an element that is not going to the left, it floats to the right"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 115.19999999999999,
+            "End": 117.36,
+            "Text": " There is no border of anything"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 117.36,
+            "End": 120.88,
+            "Text": " Sometimes someone says that the element is coming up and down, it is not coming in a line"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 120.88,
+            "End": 123.11999999999999,
+            "Text": " Sometimes you want up and down, it is coming in a line"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 123.11999999999999,
+            "End": 128.64,
+            "Text": " Sometimes you want 4 elements in a row, but the fifth element is coming down"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 128.64,
+            "End": 131.12,
+            "Text": " Such problems are faced a lot"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 131.12,
+            "End": 135.76,
+            "Text": " And the only source for this is that you don't have an understanding of CSS"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 135.76,
+            "End": 138.24,
+            "Text": " So I am going to build up the same understanding through this course"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 138.32000000000002,
+            "End": 144.0,
+            "Text": " And I will tell you how you will never have to face this problem in your life"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 144.0,
+            "End": 147.04000000000002,
+            "Text": " So you must join this course, stay with me"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 147.04000000000002,
+            "End": 149.36,
+            "Text": " And we will start this course soon"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 149.36,
+            "End": 152.64000000000001,
+            "Text": " First of all, we will discuss how a website works"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 152.64000000000001,
+            "End": 155.92000000000002,
+            "Text": " What is the role of CSS, HTML and JavaScript in a website"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 155.92000000000002,
+            "End": 159.04000000000002,
+            "Text": " And after that, we will take it forward"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 159.04000000000002,
+            "End": 165.28,
+            "Text": " And I will take you forward and explain to you how you can make a successful website"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 165.36,
+            "End": 169.44,
+            "Text": " We will build up, install IDE, we will do everything in this course"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 169.44,
+            "End": 171.68,
+            "Text": " Just stay with me in this video"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 171.68,
+            "End": 176.56,
+            "Text": " Alright guys, so now we will see what is HTML, CSS and JavaScript here"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 176.56,
+            "End": 178.24,
+            "Text": " And how websites work"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 178.24,
+            "End": 183.28,
+            "Text": " If you have listened to me carefully, then after today you will never have a problem in understanding"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 183.28,
+            "End": 188.16,
+            "Text": " How HTML, CSS and JavaScript work to serve a website"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 188.16,
+            "End": 191.44,
+            "Text": " Now if you have come here, are watching this course"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 191.52,
+            "End": 195.44,
+            "Text": " And if you want to learn how to make a website, then you must know that"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 195.44,
+            "End": 199.6,
+            "Text": " HTML is necessary to make any website"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 199.6,
+            "End": 204.24,
+            "Text": " If you want to make a website, then it is a must, without it, the work will not work"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 204.24,
+            "End": 207.92,
+            "Text": " But both of them are equally important"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 207.92,
+            "End": 210.8,
+            "Text": " And what do CSS and JavaScript do?"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 210.8,
+            "End": 215.28,
+            "Text": " CSS adds beauty and JavaScript adds brain"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 215.28,
+            "End": 217.84,
+            "Text": " So our website becomes beauty with brain"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 217.84,
+            "End": 220.88,
+            "Text": " Now you will say, what are you saying, beauty with brain"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 220.96,
+            "End": 222.96,
+            "Text": " So I will explain this very soon"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 222.96,
+            "End": 224.96,
+            "Text": " So here I write brain"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 224.96,
+            "End": 226.96,
+            "Text": " And this is our beauty"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 226.96,
+            "End": 228.96,
+            "Text": " That is, HTML is a must"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 228.96,
+            "End": 230.32,
+            "Text": " This is a body"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 230.32,
+            "End": 233.68,
+            "Text": " If there is no body, then how will the work work"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 233.68,
+            "End": 239.35999999999999,
+            "Text": " Then after that, beauty means clothes, makeup, all those things are our CSS"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 239.35999999999999,
+            "End": 244.32,
+            "Text": " Then JavaScript is brain, that is, what does your website do"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 244.32,
+            "End": 247.44,
+            "Text": " Did not understand, no problem, we are going to see a very good analogy"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 247.44,
+            "End": 249.44,
+            "Text": " Here we are going to see an analogy of a car"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 249.52,
+            "End": 252.4,
+            "Text": " You are seeing this car, it is a very powerful car"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 252.4,
+            "End": 254.4,
+            "Text": " And what is this car"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 254.4,
+            "End": 256.4,
+            "Text": " That it has a body"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 256.4,
+            "End": 258.4,
+            "Text": " So when it was made"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 258.4,
+            "End": 260.4,
+            "Text": " So first of all it will have a metallic body"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 262.4,
+            "End": 264.4,
+            "Text": " I will write here metallic body"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 264.4,
+            "End": 266.4,
+            "Text": " That is, its body"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 266.4,
+            "End": 270.88,
+            "Text": " That is, whatever metal it is made of, only that will stand"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 270.88,
+            "End": 272.88,
+            "Text": " And nothing will happen inside it"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 272.88,
+            "End": 274.88,
+            "Text": " Because as a first step it must have been made, its face must have been made"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 274.88,
+            "End": 276.88,
+            "Text": " Its iron must have been made"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 276.88,
+            "End": 281.36,
+            "Text": " The glass on top of it, the pieces on it must have been made"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 281.36,
+            "End": 285.36,
+            "Text": " Without thinking what design to give to its wheels"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 285.36,
+            "End": 287.36,
+            "Text": " What color to do in its wheels"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 287.36,
+            "End": 290.88,
+            "Text": " Along with that, the design that we have here"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 290.88,
+            "End": 292.88,
+            "Text": " The design that we have here"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 292.88,
+            "End": 294.88,
+            "Text": " How much big headlight to keep, how much to make round"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 294.88,
+            "End": 296.88,
+            "Text": " How far to keep it from the glass"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 296.88,
+            "End": 298.88,
+            "Text": " All those things come in designing"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 298.88,
+            "End": 300.88,
+            "Text": " First of all, its body must have been made"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 300.88,
+            "End": 302.88,
+            "Text": " A piece of metal must have been made"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 302.88,
+            "End": 304.88,
+            "Text": " And after that"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 304.88,
+            "End": 306.88,
+            "Text": " To add beauty to it"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 306.88,
+            "End": 308.88,
+            "Text": " Color and all"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 308.88,
+            "End": 310.88,
+            "Text": " So number 2 comes"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 310.88,
+            "End": 312.88,
+            "Text": " Beauty, meaning color"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 312.88,
+            "End": 314.88,
+            "Text": " And after that your design"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 314.88,
+            "End": 316.88,
+            "Text": " Your designs are made, which are cut here"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 316.88,
+            "End": 318.88,
+            "Text": " So I write designs here"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 318.88,
+            "End": 320.88,
+            "Text": " And along with that"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 320.88,
+            "End": 322.88,
+            "Text": " Here is your wheel"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 322.88,
+            "End": 324.88,
+            "Text": " In this"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 324.88,
+            "End": 326.88,
+            "Text": " The design is made in this way"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 326.88,
+            "End": 328.88,
+            "Text": " External metal is put here"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 328.88,
+            "End": 330.88,
+            "Text": " Whatever is put here"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 330.88,
+            "End": 332.88,
+            "Text": " Alloy wheels are given here"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 332.88,
+            "End": 334.88,
+            "Text": " All those things come here"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 334.88,
+            "End": 336.88,
+            "Text": " And I write decors here"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 336.88,
+            "End": 338.88,
+            "Text": " That is, the decoration is put here"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 338.88,
+            "End": 340.88,
+            "Text": " So that it looks better"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 340.88,
+            "End": 342.88,
+            "Text": " After that comes the brain"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 342.88,
+            "End": 344.88,
+            "Text": " Meaning engine"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 344.88,
+            "End": 346.88,
+            "Text": " So what does the engine do here"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 346.88,
+            "End": 348.88,
+            "Text": " Engine brain works"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 348.88,
+            "End": 350.88,
+            "Text": " Now the engine along with"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 350.88,
+            "End": 352.88,
+            "Text": " Along with accelerator, brake and clutch"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 352.88,
+            "End": 354.88,
+            "Text": " That is, all these things"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 354.88,
+            "End": 356.88,
+            "Text": " What do they do"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 356.88,
+            "End": 358.88,
+            "Text": " They tell a website"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 358.88,
+            "End": 360.88,
+            "Text": " How to run"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 360.88,
+            "End": 362.88,
+            "Text": " So they tell a car"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 362.88,
+            "End": 364.88,
+            "Text": " How to run"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 364.88,
+            "End": 366.88,
+            "Text": " Exactly the same way"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 366.88,
+            "End": 368.88,
+            "Text": " The website has a metallic body"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 368.88,
+            "End": 370.88,
+            "Text": " And this design is my color"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 370.88,
+            "End": 372.88,
+            "Text": " This is my CSS"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 372.88,
+            "End": 374.88,
+            "Text": " So here I write CSS"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 374.88,
+            "End": 376.88,
+            "Text": " And after that"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 376.88,
+            "End": 378.88,
+            "Text": " Here is my engine"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 378.88,
+            "End": 380.88,
+            "Text": " My JavaScript"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 380.88,
+            "End": 382.88,
+            "Text": " So I hope you liked the analogy"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 382.88,
+            "End": 384.88,
+            "Text": " You must have understood"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 384.88,
+            "End": 386.88,
+            "Text": " How HTML, CSS and JavaScript"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 386.88,
+            "End": 388.88,
+            "Text": " Contribute"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 388.88,
+            "End": 390.88,
+            "Text": " But just understanding this thing"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 390.88,
+            "End": 392.88,
+            "Text": " Is not enough"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 392.88,
+            "End": 394.88,
+            "Text": " How in a website"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 394.88,
+            "End": 396.88,
+            "Text": " HTML, CSS and JavaScript role is played"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 396.88,
+            "End": 398.88,
+            "Text": " Here I would like to tell you"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 398.88,
+            "End": 400.88,
+            "Text": " How does a website work"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 400.88,
+            "End": 402.88,
+            "Text": " Now see what is here"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 402.88,
+            "End": 404.88,
+            "Text": " You are seeing a web server"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 404.88,
+            "End": 406.88,
+            "Text": " And this diagram may seem a little scary to beginners"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 406.88,
+            "End": 408.88,
+            "Text": " This is a web server"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 408.88,
+            "End": 410.88,
+            "Text": " This is a computer"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 410.88,
+            "End": 412.88,
+            "Text": " This is you, this is you, this is the client"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 412.88,
+            "End": 414.88,
+            "Text": " So what did the client do"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 414.88,
+            "End": 416.88,
+            "Text": " The client has his Ubuntu, Windows"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 416.88,
+            "End": 418.88,
+            "Text": " This is the operating system"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 418.88,
+            "End": 420.88,
+            "Text": " In that computer he sent a request"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 420.88,
+            "End": 422.88,
+            "Text": " That request can be seen like this"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 422.88,
+            "End": 424.88,
+            "Text": " www.codewithhari.com"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 424.88,
+            "End": 426.88,
+            "Text": " www.codewithhari.com"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 426.88,
+            "End": 428.88,
+            "Text": " www.codewithhari.com"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 428.88,
+            "End": 430.88,
+            "Text": " www.codewithhari.com"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 430.88,
+            "End": 432.88,
+            "Text": " He said"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 432.88,
+            "End": 434.88,
+            "Text": " Give me codewithhari.com"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 434.88,
+            "End": 436.88,
+            "Text": " Now what is"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 436.88,
+            "End": 438.88,
+            "Text": " Codewithhari.com is on the server of codewithhari"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 438.88,
+            "End": 440.88,
+            "Text": " Or any website"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 440.88,
+            "End": 442.88,
+            "Text": " Google.com is on the server of Google"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 442.88,
+            "End": 444.88,
+            "Text": " Which has its own IP address"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 444.88,
+            "End": 446.88,
+            "Text": " So this server has its own"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 446.88,
+            "End": 448.88,
+            "Text": " IP address"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 448.88,
+            "End": 450.88,
+            "Text": " And on this IP address"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 450.88,
+            "End": 452.88,
+            "Text": " This website is standing"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 452.88,
+            "End": 454.88,
+            "Text": " It has its files, its backend is kept"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 454.88,
+            "End": 456.88,
+            "Text": " Now the backend can be in anything"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 456.88,
+            "End": 458.88,
+            "Text": " Backend can be in PHP"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 458.88,
+            "End": 460.88,
+            "Text": " I don't want to confuse you too much"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 460.88,
+            "End": 462.88,
+            "Text": " Backend can be in Python"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 462.88,
+            "End": 464.88,
+            "Text": " Backend can be in Python"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 464.88,
+            "End": 466.88,
+            "Text": " Backend can be in NodeJS"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 466.88,
+            "End": 468.88,
+            "Text": " And I will not expect from you"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 468.88,
+            "End": 470.88,
+            "Text": " You know what all this is"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 470.88,
+            "End": 472.88,
+            "Text": " You may not have heard their name"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 472.88,
+            "End": 474.88,
+            "Text": " You have to understand that I have written"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 474.88,
+            "End": 476.88,
+            "Text": " Some names of backend and what they do"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 476.88,
+            "End": 478.88,
+            "Text": " This backend does some processing"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 478.88,
+            "End": 480.88,
+            "Text": " Some computations"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 480.88,
+            "End": 482.88,
+            "Text": " And what is the result of computation"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 482.88,
+            "End": 484.88,
+            "Text": " The result of computation is"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 484.88,
+            "End": 486.88,
+            "Text": " HTML, CSS, JavaScript"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 486.88,
+            "End": 488.88,
+            "Text": " Now this HTML is the main body"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 488.88,
+            "End": 490.88,
+            "Text": " Inside this"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 490.88,
+            "End": 492.88,
+            "Text": " CSS and JavaScript is kept inside this"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 492.88,
+            "End": 494.88,
+            "Text": " How it is kept, we will talk later"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 494.88,
+            "End": 496.88,
+            "Text": " But consider an envelope"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 496.88,
+            "End": 498.88,
+            "Text": " Consider HTML as a body"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 498.88,
+            "End": 500.88,
+            "Text": " And inside this envelope"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 500.88,
+            "End": 502.88,
+            "Text": " This body is wrapped"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 502.88,
+            "End": 504.88,
+            "Text": " With CSS and JavaScript"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 504.88,
+            "End": 506.88,
+            "Text": " A bundle is sent"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 506.88,
+            "End": 508.88,
+            "Text": " Whose body is HTML"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 508.88,
+            "End": 510.88,
+            "Text": " And inside this body is CSS and JavaScript"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 510.88,
+            "End": 512.88,
+            "Text": " This body is sent as a response"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 512.88,
+            "End": 514.88,
+            "Text": " What is the response of the request"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 514.88,
+            "End": 516.88,
+            "Text": " CodeWithHarry.com"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 516.88,
+            "End": 518.88,
+            "Text": " The response of this request"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 518.88,
+            "End": 520.88,
+            "Text": " Your server gave"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 520.88,
+            "End": 522.88,
+            "Text": " Take these three things"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 522.88,
+            "End": 524.88,
+            "Text": " So this response is given by your web server"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 524.88,
+            "End": 526.88,
+            "Text": " Like you go to the restaurant to eat"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 526.88,
+            "End": 528.88,
+            "Text": " There you say"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 528.88,
+            "End": 530.88,
+            "Text": " Give me a paneer butter masala"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 530.88,
+            "End": 532.88,
+            "Text": " What is the response"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 532.88,
+            "End": 534.88,
+            "Text": " The response is"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 534.88,
+            "End": 536.88,
+            "Text": " Take paneer butter masala"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 536.88,
+            "End": 538.88,
+            "Text": " And if you order roti, you get it"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 538.88,
+            "End": 540.88,
+            "Text": " It comes on your table"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 540.88,
+            "End": 542.88,
+            "Text": " But if you had said aloo gobi"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 542.88,
+            "End": 544.88,
+            "Text": " Then you would have got something else"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 544.88,
+            "End": 546.88,
+            "Text": " You would not have got paneer butter masala"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 546.88,
+            "End": 548.88,
+            "Text": " Similarly if you"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 548.88,
+            "End": 550.88,
+            "Text": " CodeWithHarry.com slash something else"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 550.88,
+            "End": 552.88,
+            "Text": " Like I wrote codewithharry.com slash about"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 552.88,
+            "End": 554.88,
+            "Text": " So maybe"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 554.88,
+            "End": 556.88,
+            "Text": " I get another page"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 556.88,
+            "End": 558.88,
+            "Text": " I wrote codewithharry.com slash contact"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 558.88,
+            "End": 560.88,
+            "Text": " So maybe I get another page"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 560.88,
+            "End": 562.88,
+            "Text": " So this is the request"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 562.88,
+            "End": 564.88,
+            "Text": " Now which restaurant you are requesting"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 564.88,
+            "End": 566.88,
+            "Text": " It is a domain"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 566.88,
+            "End": 568.88,
+            "Text": " This is a domain"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 568.88,
+            "End": 570.88,
+            "Text": " I am requesting from this website"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 570.88,
+            "End": 572.88,
+            "Text": " CodeWithHarry.com"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 572.88,
+            "End": 574.88,
+            "Text": " And it can be empty"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 574.88,
+            "End": 576.88,
+            "Text": " It is possible that you go to a restaurant"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 576.88,
+            "End": 578.88,
+            "Text": " And you say bring some food"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 578.88,
+            "End": 580.88,
+            "Text": " So whatever he feeds by default, he will bring it"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 580.88,
+            "End": 582.88,
+            "Text": " Just an analogy"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 582.88,
+            "End": 584.88,
+            "Text": " I just want to explain to you"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 584.88,
+            "End": 586.88,
+            "Text": " If you put codewithharry.com"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 586.88,
+            "End": 588.88,
+            "Text": " Then the home page will come"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 588.88,
+            "End": 590.88,
+            "Text": " If you put slash about, then the about page will come"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 590.88,
+            "End": 592.88,
+            "Text": " If you put slash contact, then the contact page will come"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 592.88,
+            "End": 594.88,
+            "Text": " Obviously if it exists"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 594.88,
+            "End": 596.88,
+            "Text": " If it does not exist"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 596.88,
+            "End": 598.88,
+            "Text": " Suppose you go to a restaurant"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 598.88,
+            "End": 600.88,
+            "Text": " You say give me Chinese noodles"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 600.88,
+            "End": 602.88,
+            "Text": " He does not make Chinese noodles"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 602.88,
+            "End": 604.88,
+            "Text": " So how will he feed you"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 604.88,
+            "End": 606.88,
+            "Text": " He will say sir not available"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 606.88,
+            "End": 608.88,
+            "Text": " So the way to say not available is"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 608.88,
+            "End": 610.88,
+            "Text": " Server says 404"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 610.88,
+            "End": 612.88,
+            "Text": " Server sends a response"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 612.88,
+            "End": 614.88,
+            "Text": " Client and server"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 614.88,
+            "End": 616.88,
+            "Text": " Communicate with each other"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 616.88,
+            "End": 618.88,
+            "Text": " Client sends a request to the server"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 618.88,
+            "End": 620.88,
+            "Text": " And the server does some processing"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 620.88,
+            "End": 622.88,
+            "Text": " Using any one of these programming languages"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 622.88,
+            "End": 624.88,
+            "Text": " Using any one backend"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 624.88,
+            "End": 626.88,
+            "Text": " He prepares"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 626.88,
+            "End": 628.88,
+            "Text": " To send a frontend"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 628.88,
+            "End": 630.88,
+            "Text": " To whom"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 630.88,
+            "End": 632.88,
+            "Text": " To the client"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 632.88,
+            "End": 634.88,
+            "Text": " So what does the backend do?"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 634.88,
+            "End": 636.88,
+            "Text": " It prepares these three things"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 636.88,
+            "End": 638.88,
+            "Text": " And what does he do? He sends this thing"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 638.88,
+            "End": 640.88,
+            "Text": " To him"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 640.88,
+            "End": 642.88,
+            "Text": " To the client"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 642.88,
+            "End": 644.88,
+            "Text": " So I hope you understood"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 644.88,
+            "End": 646.88,
+            "Text": " How this website works"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 646.88,
+            "End": 648.88,
+            "Text": " I will tell you one more time"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 648.88,
+            "End": 650.88,
+            "Text": " There was a computer here"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 650.88,
+            "End": 652.88,
+            "Text": " The client who has this computer"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 652.88,
+            "End": 654.88,
+            "Text": " He said codewithharry.com"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 654.88,
+            "End": 656.88,
+            "Text": " Server did processing"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 656.88,
+            "End": 658.88,
+            "Text": " In my case I am using python"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 658.88,
+            "End": 660.88,
+            "Text": " That too on my server"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 660.88,
+            "End": 662.88,
+            "Text": " Processing was done through python"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 662.88,
+            "End": 664.88,
+            "Text": " It generated three things"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 664.88,
+            "End": 666.88,
+            "Text": " Where CSS and JavaScript"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 666.88,
+            "End": 668.88,
+            "Text": " Was present inside the HTML"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 668.88,
+            "End": 670.88,
+            "Text": " This computer"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 670.88,
+            "End": 672.88,
+            "Text": " Now what will happen"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 672.88,
+            "End": 674.88,
+            "Text": " When this computer will get HTML, CSS and JavaScript"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 674.88,
+            "End": 676.88,
+            "Text": " This is a program called web browser"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 676.88,
+            "End": 678.88,
+            "Text": " It is installed in the computer"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 678.88,
+            "End": 680.88,
+            "Text": " You will also have"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 680.88,
+            "End": 682.88,
+            "Text": " What does this web browser do?"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 682.88,
+            "End": 684.88,
+            "Text": " This document"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 684.88,
+            "End": 686.88,
+            "Text": " This is a document"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 686.88,
+            "End": 688.88,
+            "Text": " HTML, CSS and JavaScript is a text"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 688.88,
+            "End": 690.88,
+            "Text": " By manipulating it"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 690.88,
+            "End": 692.88,
+            "Text": " It shows you what you will see"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 692.88,
+            "End": 694.88,
+            "Text": " If you open codewithharry.com"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 694.88,
+            "End": 696.88,
+            "Text": " You will see a website"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 696.88,
+            "End": 698.88,
+            "Text": " Where will it come"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 698.88,
+            "End": 700.88,
+            "Text": " All those things"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 700.88,
+            "End": 702.88,
+            "Text": " The job of the browser is to display"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 702.88,
+            "End": 704.88,
+            "Text": " And what does the browser receive?"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 704.88,
+            "End": 706.88,
+            "Text": " This document receives"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 706.88,
+            "End": 708.88,
+            "Text": " HTML, CSS and JavaScript"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 708.88,
+            "End": 710.88,
+            "Text": " So this is our basic working website"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 710.88,
+            "End": 712.88,
+            "Text": " So let's move ahead and see"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 712.88,
+            "End": 714.88,
+            "Text": " What is the role of HTML"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 714.88,
+            "End": 716.88,
+            "Text": " Although we have already discussed"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 716.88,
+            "End": 718.88,
+            "Text": " Let's understand the role of HTML, CSS and JavaScript"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 718.88,
+            "End": 720.88,
+            "Text": " And after that we will start coding"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 720.88,
+            "End": 722.88,
+            "Text": " Let's talk about HTML"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 722.88,
+            "End": 724.88,
+            "Text": " HTML has a full form"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 724.88,
+            "End": 726.88,
+            "Text": " Hypertext Markup Language"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 726.88,
+            "End": 728.88,
+            "Text": " And this is a standard"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 728.88,
+            "End": 730.88,
+            "Text": " Many people have agreed"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 730.88,
+            "End": 732.88,
+            "Text": " Will use HTML"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 732.88,
+            "End": 734.88,
+            "Text": " To make a website"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 734.88,
+            "End": 736.88,
+            "Text": " Everyone use HTML"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 736.88,
+            "End": 738.88,
+            "Text": " And all the browsers who make"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 738.88,
+            "End": 740.88,
+            "Text": " Will also display this"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 740.88,
+            "End": 742.88,
+            "Text": " So it has made a standard"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 742.88,
+            "End": 744.88,
+            "Text": " This is a well standardized system"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 744.88,
+            "End": 746.88,
+            "Text": " And as I told you"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 746.88,
+            "End": 748.88,
+            "Text": " This is a standard markup language"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 748.88,
+            "End": 750.88,
+            "Text": " This means that all people"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 750.88,
+            "End": 752.88,
+            "Text": " Will use this"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 752.88,
+            "End": 754.88,
+            "Text": " And"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 754.88,
+            "End": 756.88,
+            "Text": " Web browsers will also"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 756.88,
+            "End": 758.88,
+            "Text": " Adhere to this"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 758.88,
+            "End": 760.88,
+            "Text": " HTML is only a body"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 760.88,
+            "End": 762.88,
+            "Text": " If I talk about a human"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 762.88,
+            "End": 764.88,
+            "Text": " Then only skeleton"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 764.88,
+            "End": 766.88,
+            "Text": " Only skeleton with bones"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 766.88,
+            "End": 768.88,
+            "Text": " So if we talk about a skeleton"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 768.88,
+            "End": 770.88,
+            "Text": " My drawing is not so good"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 770.88,
+            "End": 772.88,
+            "Text": " But you just understand here"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 772.88,
+            "End": 774.88,
+            "Text": " This is a skeleton"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 774.88,
+            "End": 776.88,
+            "Text": " I have not made a very good skeleton"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 776.88,
+            "End": 778.88,
+            "Text": " But HTML is a skeleton"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 778.88,
+            "End": 780.88,
+            "Text": " And here"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 780.88,
+            "End": 782.88,
+            "Text": " These bones will be of a skeleton"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 782.88,
+            "End": 784.88,
+            "Text": " And this rib cage"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 784.88,
+            "End": 786.88,
+            "Text": " Anyway, I will leave it"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 786.88,
+            "End": 788.88,
+            "Text": " This skeleton"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 788.88,
+            "End": 790.88,
+            "Text": " This is only the face of the website"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 790.88,
+            "End": 792.88,
+            "Text": " Which is represented by HTML"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 792.88,
+            "End": 794.88,
+            "Text": " Now if I move forward"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 794.88,
+            "End": 796.88,
+            "Text": " I come inside CSS"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 796.88,
+            "End": 798.88,
+            "Text": " So what does CSS do? It gives a design to this skeleton"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 798.88,
+            "End": 800.88,
+            "Text": " The skeleton we have"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 800.88,
+            "End": 802.88,
+            "Text": " The skin, the color of the skin, the hair"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 802.88,
+            "End": 804.88,
+            "Text": " Clothes"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 804.88,
+            "End": 806.88,
+            "Text": " Because of which people look good"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 806.88,
+            "End": 808.88,
+            "Text": " That is our CSS"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 808.88,
+            "End": 810.88,
+            "Text": " Now what is padding style sheets?"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 810.88,
+            "End": 812.88,
+            "Text": " It is a style sheet language"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 812.88,
+            "End": 814.88,
+            "Text": " Which is of your web page"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 814.88,
+            "End": 816.88,
+            "Text": " That is, the HTML body you made"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 816.88,
+            "End": 818.88,
+            "Text": " It makes its presentation good"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 818.88,
+            "End": 820.88,
+            "Text": " What color should be of which element?"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 820.88,
+            "End": 822.88,
+            "Text": " What background color should be of which element?"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 822.88,
+            "End": 824.88,
+            "Text": " Which element will float in the left?"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 824.88,
+            "End": 826.88,
+            "Text": " Which element will go to the top?"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 826.88,
+            "End": 828.88,
+            "Text": " Which element will keep how much distance inside itself?"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 828.88,
+            "End": 830.88,
+            "Text": " How much margin will keep?"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 830.88,
+            "End": 832.88,
+            "Text": " How much padding will keep?"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 832.88,
+            "End": 834.88,
+            "Text": " What will be the color of its border?"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 834.88,
+            "End": 836.88,
+            "Text": " All these things are decided by CSS"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 836.88,
+            "End": 838.88,
+            "Text": " And we will see how to use it in the future"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 838.88,
+            "End": 840.88,
+            "Text": " And this makes our website"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 840.88,
+            "End": 842.88,
+            "Text": " Beautiful and modern looking"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 842.88,
+            "End": 844.88,
+            "Text": " So all the animations and all these things"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 844.88,
+            "End": 846.88,
+            "Text": " You see, with the help of CSS"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 846.88,
+            "End": 848.88,
+            "Text": " You can achieve"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 848.88,
+            "End": 850.88,
+            "Text": " Now let's come quickly to JavaScript"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 850.88,
+            "End": 852.88,
+            "Text": " Without wasting much time"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 852.88,
+            "End": 854.88,
+            "Text": " And JavaScript is brain"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 854.88,
+            "End": 856.88,
+            "Text": " That is, the brain of your website"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 856.88,
+            "End": 858.88,
+            "Text": " The brain"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 858.88,
+            "End": 860.88,
+            "Text": " The ability to think"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 860.88,
+            "End": 862.88,
+            "Text": " That is called JavaScript"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 862.88,
+            "End": 864.88,
+            "Text": " Like a human being"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 864.88,
+            "End": 866.88,
+            "Text": " If he is taking wise decisions"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 866.88,
+            "End": 868.88,
+            "Text": " Then he is able to take wise decisions"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 868.88,
+            "End": 870.88,
+            "Text": " Because of JavaScript"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 870.88,
+            "End": 872.88,
+            "Text": " So let's say a person is saying"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 872.88,
+            "End": 874.88,
+            "Text": " Let's go there"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 874.88,
+            "End": 876.88,
+            "Text": " So he is able to think"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 876.88,
+            "End": 878.88,
+            "Text": " That is JavaScript"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 878.88,
+            "End": 880.88,
+            "Text": " Now I have told you in human terms"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 880.88,
+            "End": 882.88,
+            "Text": " HTML and CSS"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 882.88,
+            "End": 884.88,
+            "Text": " HTML is the body and CSS is its design"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 884.88,
+            "End": 886.88,
+            "Text": " Its looks are that"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 886.88,
+            "End": 888.88,
+            "Text": " JavaScript is its brain"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 888.88,
+            "End": 890.88,
+            "Text": " Where to go, when to go, how to go"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 890.88,
+            "End": 892.88,
+            "Text": " All those things are the way it decides"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 892.88,
+            "End": 894.88,
+            "Text": " Okay"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 894.88,
+            "End": 896.88,
+            "Text": " Now what we will do here"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 896.88,
+            "End": 898.88,
+            "Text": " We will learn JavaScript properly"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 898.88,
+            "End": 900.88,
+            "Text": " And I want to tell you in JavaScript"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 900.88,
+            "End": 902.88,
+            "Text": " If you will enter into JavaScript"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 902.88,
+            "End": 904.88,
+            "Text": " It is a big language and you will find it difficult"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 904.88,
+            "End": 906.88,
+            "Text": " So I will suggest you"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 906.88,
+            "End": 908.88,
+            "Text": " That as you are going into HTML, CSS, JavaScript"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 908.88,
+            "End": 910.88,
+            "Text": " If you have learned HTML"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 910.88,
+            "End": 912.88,
+            "Text": " It is not that you have to learn HTML 100%"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 912.88,
+            "End": 914.88,
+            "Text": " I will complete this point now"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 914.88,
+            "End": 916.88,
+            "Text": " Don't listen to half of my talk"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 916.88,
+            "End": 918.88,
+            "Text": " And JavaScript"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 918.88,
+            "End": 920.88,
+            "Text": " Suppose you have learned HTML"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 920.88,
+            "End": 922.88,
+            "Text": " If you have learned HTML 80%"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 922.88,
+            "End": 924.88,
+            "Text": " Then that is enough"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 924.88,
+            "End": 926.88,
+            "Text": " If you have learned CSS 40-60%"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 926.88,
+            "End": 928.88,
+            "Text": " Then that is enough"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 928.88,
+            "End": 930.88,
+            "Text": " I am talking about beginners"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 930.88,
+            "End": 932.88,
+            "Text": " And if you have learned JavaScript"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 932.88,
+            "End": 934.88,
+            "Text": " 50-70%"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 934.88,
+            "End": 936.88,
+            "Text": " Then that is enough"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 936.88,
+            "End": 938.88,
+            "Text": " And the rest of the things you will learn"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 938.88,
+            "End": 940.88,
+            "Text": " You will learn from your practice"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 940.88,
+            "End": 942.88,
+            "Text": " You will learn by making websites"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 942.88,
+            "End": 944.88,
+            "Text": " Never do this"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 944.88,
+            "End": 946.88,
+            "Text": " The biggest mistake that beginners do"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 946.88,
+            "End": 948.88,
+            "Text": " You have taken HTML and wasted 1.5 years"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 948.88,
+            "End": 950.88,
+            "Text": " You have taken CSS"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 950.88,
+            "End": 952.88,
+            "Text": " You have started remembering all the properties"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 952.88,
+            "End": 954.88,
+            "Text": " And you have not even touched JavaScript"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 954.88,
+            "End": 956.88,
+            "Text": " You don't even know what is in the pocket of JavaScript"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 956.88,
+            "End": 958.88,
+            "Text": " And what happens in it"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 958.88,
+            "End": 960.88,
+            "Text": " How all these things work"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 960.88,
+            "End": 962.88,
+            "Text": " You don't know the spelling of JavaScript"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 962.88,
+            "End": 964.88,
+            "Text": " You don't have to do this"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 964.88,
+            "End": 966.88,
+            "Text": " If you do this, you will lose a lot of time"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 966.88,
+            "End": 968.88,
+            "Text": " And you will not be able to relate"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 968.88,
+            "End": 970.88,
+            "Text": " How to use these three together"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 970.88,
+            "End": 972.88,
+            "Text": " If you want to relate"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 972.88,
+            "End": 974.88,
+            "Text": " And want to understand things properly"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 974.88,
+            "End": 976.88,
+            "Text": " Then you have to read these three simultaneously"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 976.88,
+            "End": 978.88,
+            "Text": " And learn by making websites"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 978.88,
+            "End": 980.88,
+            "Text": " And that is what I am going to teach you through this course"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 980.88,
+            "End": 982.88,
+            "Text": " So this JavaScript"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 982.88,
+            "End": 984.88,
+            "Text": " It is a high level dynamic interpreted programming language"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 984.88,
+            "End": 986.88,
+            "Text": " And I will tell you the meaning of dynamic later"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 986.88,
+            "End": 988.88,
+            "Text": " Now leave it"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 988.88,
+            "End": 990.88,
+            "Text": " And this is a client side scripting language"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 990.88,
+            "End": 992.88,
+            "Text": " This is very important"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 992.88,
+            "End": 994.88,
+            "Text": " JavaScript can be used on the server side"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 994.88,
+            "End": 996.88,
+            "Text": " But this is a client side programming language"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 996.88,
+            "End": 998.88,
+            "Text": " So if I come to this diagram"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 998.88,
+            "End": 1000.88,
+            "Text": " So the programming inside the browser"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 1000.88,
+            "End": 1002.88,
+            "Text": " Like if you click on it"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 1002.88,
+            "End": 1004.88,
+            "Text": " If I click on the mouse"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 1004.88,
+            "End": 1006.88,
+            "Text": " If I hover the mouse"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 1006.88,
+            "End": 1008.88,
+            "Text": " So what happens"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 1008.88,
+            "End": 1010.88,
+            "Text": " And all these things can be written through JavaScript"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 1010.88,
+            "End": 1012.88,
+            "Text": " If I click on any element"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 1012.88,
+            "End": 1014.88,
+            "Text": " A new window opens"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 1014.88,
+            "End": 1016.88,
+            "Text": " If I click on any element"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 1016.88,
+            "End": 1018.88,
+            "Text": " A form is submitted"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 1018.88,
+            "End": 1020.88,
+            "Text": " All these things are achieved through JavaScript"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 1020.88,
+            "End": 1022.88,
+            "Text": " So you can write logic"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 1022.88,
+            "End": 1024.88,
+            "Text": " You can convert kilometers to miles"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 1024.88,
+            "End": 1026.88,
+            "Text": " You can convert kilograms to grams"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 1026.88,
+            "End": 1028.88,
+            "Text": " You can do all these things with the help of JavaScript"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 1028.88,
+            "End": 1030.88,
+            "Text": " And your HTML tags"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 1030.88,
+            "End": 1032.88,
+            "Text": " You can change the data inside it"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 1032.88,
+            "End": 1034.88,
+            "Text": " We will see how to do all these things"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 1034.88,
+            "End": 1036.88,
+            "Text": " And here"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 1036.88,
+            "End": 1038.88,
+            "Text": " Your client side scripting"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 1038.88,
+            "End": 1040.88,
+            "Text": " It helps in doing JavaScript"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 1040.88,
+            "End": 1042.88,
+            "Text": " I hope you understood"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 1042.88,
+            "End": 1044.88,
+            "Text": " HTML, CSS and JavaScript"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 1044.88,
+            "End": 1046.88,
+            "Text": " In web development"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 1046.88,
+            "End": 1048.88,
+            "Text": " And this video was"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 1048.88,
+            "End": 1050.88,
+            "Text": " An introductory video"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 1050.88,
+            "End": 1052.88,
+            "Text": " Many people must be thinking that this was basic"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 1052.88,
+            "End": 1054.88,
+            "Text": " And many of you must know these things"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 1054.88,
+            "End": 1056.88,
+            "Text": " But very soon I want to take it to the advanced level"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 1056.88,
+            "End": 1058.88,
+            "Text": " I will tell you"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 1058.88,
+            "End": 1060.88,
+            "Text": " How websites are made"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 1060.88,
+            "End": 1062.88,
+            "Text": " And those who know"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 1062.88,
+            "End": 1064.88,
+            "Text": " They will also know"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 1064.88,
+            "End": 1066.88,
+            "Text": " What practices they should use"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 1066.88,
+            "End": 1068.88,
+            "Text": " So stay with me in this video"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 1068.88,
+            "End": 1070.88,
+            "Text": " And in this series"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 1070.88,
+            "End": 1072.88,
+            "Text": " And access the playlist"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 1072.88,
+            "End": 1074.88,
+            "Text": " If you have not accessed the playlist yet"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 1074.88,
+            "End": 1076.88,
+            "Text": " This is my humble request to you"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 1076.88,
+            "End": 1078.88,
+            "Text": " I will put the playlist in the description"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 1078.88,
+            "End": 1080.88,
+            "Text": " Grab that playlist as soon as possible"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 1080.88,
+            "End": 1082.88,
+            "Text": " Don't forget to like this video"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 1082.88,
+            "End": 1084.88,
+            "Text": " That's all for now"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 1084.88,
+            "End": 1086.88,
+            "Text": " Thank you so much for watching this video"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 1086.88,
+            "End": 1088.88,
+            "Text": " And I will see you next time"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to HTML, CSS, JavaScript & How websites work  Web Development Tutorials ",
+            "start": 1090.88,
+            "End": 1092.88,
+            "Text": " Outro"
+        }
+    ],
+    "Text": " After watching this course, you will learn the technologies used in making websites from start to end And making successful and profitable websites, I will teach you in this course end to end All these videos will be uploaded free of cost on my channel Code with Harry And I will add all the videos in a playlist, which I would like you to access from the description And bookmark it so that you don't miss any video This course is for those people who don't know anything Yes, those people who don't know anything about web development and want to start Maybe you haven't heard anything about programming This course is for those people, I will teach you from start to end Before starting this course, I would like to request you to like this video And along with that, tell me in the comment below where are you from And you join this course, write to me so that in the coming time I will have to give anything related to the course Like notes or cheat sheets or maybe there are some resources that I should share with you So I will reply to all those things in your comment So if you haven't commented below yet, then it is very important to comment your name and where you are from Those people who are already making websites and those who are working in HTML, JavaScript and CSS I would like to tell those people that you should also watch this course At the start, you may feel that you know some things But after 2-3-4 videos, I will progress it at an advanced level And there you will get some best practices, some common mistakes that people should use Some new tools that people don't use at all, they use old techniques Pointing out all those things, I will take you forward I will teach you HTML, CSS and JavaScript in this course So you must join this course And I want to assure you that after watching this course, you will be able to make any kind of professional website I get a lot of questions like this Some people say that there is an element that is not going to the left, it floats to the right There is no border of anything Sometimes someone says that the element is coming up and down, it is not coming in a line Sometimes you want up and down, it is coming in a line Sometimes you want 4 elements in a row, but the fifth element is coming down Such problems are faced a lot And the only source for this is that you don't have an understanding of CSS So I am going to build up the same understanding through this course And I will tell you how you will never have to face this problem in your life So you must join this course, stay with me And we will start this course soon First of all, we will discuss how a website works What is the role of CSS, HTML and JavaScript in a website And after that, we will take it forward And I will take you forward and explain to you how you can make a successful website We will build up, install IDE, we will do everything in this course Just stay with me in this video Alright guys, so now we will see what is HTML, CSS and JavaScript here And how websites work If you have listened to me carefully, then after today you will never have a problem in understanding How HTML, CSS and JavaScript work to serve a website Now if you have come here, are watching this course And if you want to learn how to make a website, then you must know that HTML is necessary to make any website If you want to make a website, then it is a must, without it, the work will not work But both of them are equally important And what do CSS and JavaScript do? CSS adds beauty and JavaScript adds brain So our website becomes beauty with brain Now you will say, what are you saying, beauty with brain So I will explain this very soon So here I write brain And this is our beauty That is, HTML is a must This is a body If there is no body, then how will the work work Then after that, beauty means clothes, makeup, all those things are our CSS Then JavaScript is brain, that is, what does your website do Did not understand, no problem, we are going to see a very good analogy Here we are going to see an analogy of a car You are seeing this car, it is a very powerful car And what is this car That it has a body So when it was made So first of all it will have a metallic body I will write here metallic body That is, its body That is, whatever metal it is made of, only that will stand And nothing will happen inside it Because as a first step it must have been made, its face must have been made Its iron must have been made The glass on top of it, the pieces on it must have been made Without thinking what design to give to its wheels What color to do in its wheels Along with that, the design that we have here The design that we have here How much big headlight to keep, how much to make round How far to keep it from the glass All those things come in designing First of all, its body must have been made A piece of metal must have been made And after that To add beauty to it Color and all So number 2 comes Beauty, meaning color And after that your design Your designs are made, which are cut here So I write designs here And along with that Here is your wheel In this The design is made in this way External metal is put here Whatever is put here Alloy wheels are given here All those things come here And I write decors here That is, the decoration is put here So that it looks better After that comes the brain Meaning engine So what does the engine do here Engine brain works Now the engine along with Along with accelerator, brake and clutch That is, all these things What do they do They tell a website How to run So they tell a car How to run Exactly the same way The website has a metallic body And this design is my color This is my CSS So here I write CSS And after that Here is my engine My JavaScript So I hope you liked the analogy You must have understood How HTML, CSS and JavaScript Contribute But just understanding this thing Is not enough How in a website HTML, CSS and JavaScript role is played Here I would like to tell you How does a website work Now see what is here You are seeing a web server And this diagram may seem a little scary to beginners This is a web server This is a computer This is you, this is you, this is the client So what did the client do The client has his Ubuntu, Windows This is the operating system In that computer he sent a request That request can be seen like this www.codewithhari.com www.codewithhari.com www.codewithhari.com www.codewithhari.com He said Give me codewithhari.com Now what is Codewithhari.com is on the server of codewithhari Or any website Google.com is on the server of Google Which has its own IP address So this server has its own IP address And on this IP address This website is standing It has its files, its backend is kept Now the backend can be in anything Backend can be in PHP I don't want to confuse you too much Backend can be in Python Backend can be in Python Backend can be in NodeJS And I will not expect from you You know what all this is You may not have heard their name You have to understand that I have written Some names of backend and what they do This backend does some processing Some computations And what is the result of computation The result of computation is HTML, CSS, JavaScript Now this HTML is the main body Inside this CSS and JavaScript is kept inside this How it is kept, we will talk later But consider an envelope Consider HTML as a body And inside this envelope This body is wrapped With CSS and JavaScript A bundle is sent Whose body is HTML And inside this body is CSS and JavaScript This body is sent as a response What is the response of the request CodeWithHarry.com The response of this request Your server gave Take these three things So this response is given by your web server Like you go to the restaurant to eat There you say Give me a paneer butter masala What is the response The response is Take paneer butter masala And if you order roti, you get it It comes on your table But if you had said aloo gobi Then you would have got something else You would not have got paneer butter masala Similarly if you CodeWithHarry.com slash something else Like I wrote codewithharry.com slash about So maybe I get another page I wrote codewithharry.com slash contact So maybe I get another page So this is the request Now which restaurant you are requesting It is a domain This is a domain I am requesting from this website CodeWithHarry.com And it can be empty It is possible that you go to a restaurant And you say bring some food So whatever he feeds by default, he will bring it Just an analogy I just want to explain to you If you put codewithharry.com Then the home page will come If you put slash about, then the about page will come If you put slash contact, then the contact page will come Obviously if it exists If it does not exist Suppose you go to a restaurant You say give me Chinese noodles He does not make Chinese noodles So how will he feed you He will say sir not available So the way to say not available is Server says 404 Server sends a response Client and server Communicate with each other Client sends a request to the server And the server does some processing Using any one of these programming languages Using any one backend He prepares To send a frontend To whom To the client So what does the backend do? It prepares these three things And what does he do? He sends this thing To him To the client So I hope you understood How this website works I will tell you one more time There was a computer here The client who has this computer He said codewithharry.com Server did processing In my case I am using python That too on my server Processing was done through python It generated three things Where CSS and JavaScript Was present inside the HTML This computer Now what will happen When this computer will get HTML, CSS and JavaScript This is a program called web browser It is installed in the computer You will also have What does this web browser do? This document This is a document HTML, CSS and JavaScript is a text By manipulating it It shows you what you will see If you open codewithharry.com You will see a website Where will it come All those things The job of the browser is to display And what does the browser receive? This document receives HTML, CSS and JavaScript So this is our basic working website So let's move ahead and see What is the role of HTML Although we have already discussed Let's understand the role of HTML, CSS and JavaScript And after that we will start coding Let's talk about HTML HTML has a full form Hypertext Markup Language And this is a standard Many people have agreed Will use HTML To make a website Everyone use HTML And all the browsers who make Will also display this So it has made a standard This is a well standardized system And as I told you This is a standard markup language This means that all people Will use this And Web browsers will also Adhere to this HTML is only a body If I talk about a human Then only skeleton Only skeleton with bones So if we talk about a skeleton My drawing is not so good But you just understand here This is a skeleton I have not made a very good skeleton But HTML is a skeleton And here These bones will be of a skeleton And this rib cage Anyway, I will leave it This skeleton This is only the face of the website Which is represented by HTML Now if I move forward I come inside CSS So what does CSS do? It gives a design to this skeleton The skeleton we have The skin, the color of the skin, the hair Clothes Because of which people look good That is our CSS Now what is padding style sheets? It is a style sheet language Which is of your web page That is, the HTML body you made It makes its presentation good What color should be of which element? What background color should be of which element? Which element will float in the left? Which element will go to the top? Which element will keep how much distance inside itself? How much margin will keep? How much padding will keep? What will be the color of its border? All these things are decided by CSS And we will see how to use it in the future And this makes our website Beautiful and modern looking So all the animations and all these things You see, with the help of CSS You can achieve Now let's come quickly to JavaScript Without wasting much time And JavaScript is brain That is, the brain of your website The brain The ability to think That is called JavaScript Like a human being If he is taking wise decisions Then he is able to take wise decisions Because of JavaScript So let's say a person is saying Let's go there So he is able to think That is JavaScript Now I have told you in human terms HTML and CSS HTML is the body and CSS is its design Its looks are that JavaScript is its brain Where to go, when to go, how to go All those things are the way it decides Okay Now what we will do here We will learn JavaScript properly And I want to tell you in JavaScript If you will enter into JavaScript It is a big language and you will find it difficult So I will suggest you That as you are going into HTML, CSS, JavaScript If you have learned HTML It is not that you have to learn HTML 100% I will complete this point now Don't listen to half of my talk And JavaScript Suppose you have learned HTML If you have learned HTML 80% Then that is enough If you have learned CSS 40-60% Then that is enough I am talking about beginners And if you have learned JavaScript 50-70% Then that is enough And the rest of the things you will learn You will learn from your practice You will learn by making websites Never do this The biggest mistake that beginners do You have taken HTML and wasted 1.5 years You have taken CSS You have started remembering all the properties And you have not even touched JavaScript You don't even know what is in the pocket of JavaScript And what happens in it How all these things work You don't know the spelling of JavaScript You don't have to do this If you do this, you will lose a lot of time And you will not be able to relate How to use these three together If you want to relate And want to understand things properly Then you have to read these three simultaneously And learn by making websites And that is what I am going to teach you through this course So this JavaScript It is a high level dynamic interpreted programming language And I will tell you the meaning of dynamic later Now leave it And this is a client side scripting language This is very important JavaScript can be used on the server side But this is a client side programming language So if I come to this diagram So the programming inside the browser Like if you click on it If I click on the mouse If I hover the mouse So what happens And all these things can be written through JavaScript If I click on any element A new window opens If I click on any element A form is submitted All these things are achieved through JavaScript So you can write logic You can convert kilometers to miles You can convert kilograms to grams You can do all these things with the help of JavaScript And your HTML tags You can change the data inside it We will see how to do all these things And here Your client side scripting It helps in doing JavaScript I hope you understood HTML, CSS and JavaScript In web development And this video was An introductory video Many people must be thinking that this was basic And many of you must know these things But very soon I want to take it to the advanced level I will tell you How websites are made And those who know They will also know What practices they should use So stay with me in this video And in this series And access the playlist If you have not accessed the playlist yet This is my humble request to you I will put the playlist in the description Grab that playlist as soon as possible Don't forget to like this video That's all for now Thank you so much for watching this video And I will see you next time Outro"
+}
